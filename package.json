@@ -1,0 +1,34 @@
+{
+  "name": "tikz-academic-diagrams",
+  "version": "1.0.0",
+  "description": "TikZ academic diagram creation guidelines and templates for publication-quality LaTeX figures",
+  "main": "SKILL.md",
+  "files": [
+    "SKILL.md",
+    "assets/"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tikz",
+    "latex",
+    "diagrams",
+    "academic",
+    "figures",
+    "neural-network",
+    "machine-learning",
+    "visualization",
+    "claude-skill"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/tikz-academic-diagrams.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/tikz-academic-diagrams/issues"
+  },
+  "homepage": "https://github.com/yourusername/tikz-academic-diagrams#readme"
+}
