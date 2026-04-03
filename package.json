@@ -25,10 +25,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/tikz-academic-diagrams.git"
+    "url": "git+https://github.com/doge-liang/tikz-academic-diagrams.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/tikz-academic-diagrams/issues"
+    "url": "https://github.com/doge-liang/tikz-academic-diagrams/issues"
   },
-  "homepage": "https://github.com/yourusername/tikz-academic-diagrams#readme"
+  "homepage": "https://github.com/doge-liang/tikz-academic-diagrams#readme"
 }
